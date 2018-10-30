@@ -1,2 +1,8 @@
-# cs389_hw3
-Testy cache
+### CS389 HW3: Testy Cache.
+
+####
+DAVID HERRERO
+MICHAEL KALANGE
+
+#### IMPORTANT
+
