@@ -1,6 +1,6 @@
 #define CATCH_CONFIG_MAIN
 #include "catch.hpp"
-#include "testinglab.cpp"
+#include "sierra_mercy_cache.cc"
 
 TEST_CASE("Set/Get","[single-file]")
 {
