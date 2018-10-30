@@ -4,7 +4,8 @@
 
 #### Instructions
 
-g++ -std=c++11 -Wall -o 010-TestCase 010-TestCase.cpp && 010-TestCase --success -I$(CATCH_SINGLE_INCLUDE)
+g++ -std=c++11 -Wall -o tests_cache tests_cache.cpp
+./tests_cache --success
 
 #### Our cache
 
