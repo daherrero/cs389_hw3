@@ -20,10 +20,12 @@ Del                 | "Delete on k/v not in cache has no effect."               
 
 #### Sierra and Mercy's cache
 
+Their cache doesn't have any compiling error using our setting and it passes all of our tests.
+
 Test | Status
 --- | ---
 Set/Get          |  PASS
-Set/Get          |  FAIL
+Set/Get          |  PASS
 Set/Get          |  PASS
 Space_used  |  PASS
 Space_used  |  PASS
