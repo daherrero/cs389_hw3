@@ -35,8 +35,8 @@ Del                 |  PASS
 
 #### Naomi and Grant's cache
 
-Their cache gives a warning when compiling
-68:44: warning: field 'memused_' will be initialized after field 'hasher_'
+Their cache gives a warning when compiling:\
+`68:44: warning: field 'memused_' will be initialized after field 'hasher_'`\
 but apart from that it passes all of our tests and runs perfectly.
 
 Test | Status
