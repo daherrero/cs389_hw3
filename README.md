@@ -4,7 +4,7 @@
 
 #### Instructions
 
-g++ -std=c++11 -Wall -o tests_cache tests_cache.cpp  ./tests_cache --success
+g++ -std=c++11 -Wall -o tests_cache tests_cache.cpp\ ./tests_cache --success
 
 #### Our cache
 
