@@ -4,8 +4,8 @@
 
 #### Instructions
 
-g++ -std=c++11 -Wall -o tests_cache tests_cache.cpp\
-./tests_cache --success
+`g++ -std=c++11 -Wall -o tests_cache tests_cache.cp`\
+`./tests_cache --success`
 
 #### Our cache
 
@@ -49,3 +49,16 @@ Space_used  |  PASS
 Del                 |  PASS
 Del                 |  PASS
 
+#### Monica and Alyssa's cache
+
+Their cache doesn't have any compiling error using our setting and it passes all of our tests.
+
+Test | Status
+--- | ---
+Set/Get          |  PASS
+Set/Get          |  PASS
+Set/Get          |  PASS
+Space_used  |  PASS
+Space_used  |  PASS
+Del                 |  PASS
+Del                 |  PASS
