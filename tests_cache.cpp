@@ -1,6 +1,6 @@
 #define CATCH_CONFIG_MAIN
 #include "catch.hpp"
-#include "sierra_mercy_cache.cc"
+#include "boss_quattlebaum_cache.cc"
 
 TEST_CASE("Set/Get","[single-file]")
 {
